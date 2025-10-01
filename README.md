@@ -19,3 +19,6 @@ script.js : logique JavaScript pour récupérer les blagues, gérer le DOM, et s
 
 Les blagues proviennent de l’endpoint :
 https://v2.jokeapi.dev/joke/Any?lang=fr&blacklistFlags=nsfw,religious,political,racist,sexist,explicit
+
+Auteur
+Projet réalisé dans le cadre d’un TP de découverte des API Web.
